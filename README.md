@@ -1,7 +1,5 @@
 ## Hi there 👋 This is my public GitHub page ## 
 
-[![BKG's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Balaks0702&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Balaks0702/github-readme-stats#gh-dark-mode-only)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react" />
