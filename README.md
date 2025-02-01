@@ -7,6 +7,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C" />
+  </a>
+</p>
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C)
 
 <!--
