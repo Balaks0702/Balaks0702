@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Codewars](https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C)
+
 <!--
 **Balaks0702/Balaks0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
