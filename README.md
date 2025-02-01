@@ -1,4 +1,4 @@
-## Hi there 👋 This is my public GitHub page ## 
+## Hi there 👋 This is my GitHub page ## 
 
 <p align="center">
   <a href="https://skillicons.dev">
