@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is my public GitHub page ## 
 
 ![Codewars](https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C)
 
