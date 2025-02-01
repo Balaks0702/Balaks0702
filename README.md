@@ -1,7 +1,11 @@
 ## Hi there 👋 This is my public GitHub page ## 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react" />
+  </a>
+</p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C)
 
