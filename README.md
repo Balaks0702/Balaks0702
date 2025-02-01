@@ -1,6 +1,8 @@
 ## Hi there 👋 This is my public GitHub page ## 
 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)
+
 ![Codewars](https://github.r2v.ch/codewars?user=BKG_Dev&stroke=%23BB432C)
 
 <!--
